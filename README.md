@@ -1,5 +1,8 @@
 # Storageapp
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Language](https://img.shields.io/badge/language-HTML-informational.svg) ![Last Commit](https://img.shields.io/github/last-commit/Alaashamel/storageapp)
+
+
 Storageapp — a HTML project by Alaashamel.
 
 ## ✨ Features
