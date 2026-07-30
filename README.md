@@ -3,8 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Language](https://img.shields.io/badge/language-HTML-informational.svg) ![Last Commit](https://img.shields.io/github/last-commit/Alaashamel/storageapp)
 
 
-Storageapp — a HTML project by Alaashamel.
-
+A minimal single-page HTML starter project — functionality is still being built out.
 ## ✨ Features
 
 - Built primarily with **HTML**
